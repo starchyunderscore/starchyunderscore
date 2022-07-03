@@ -1,8 +1,8 @@
 Hi, I’m @starchyunderscore
 
-I’m currently learning html, javascript, and CSS
+I’m currently learning html, javascript, CSS, and java
 
-I'm also trying to help out as best I can on vuetube, though right now that just means reporting bugs. 
+I'm currently working on a minecraft plugin to workaround chat reporting
 
 <!---
 starchyunderscore/starchyunderscore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
