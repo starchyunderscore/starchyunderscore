@@ -1,8 +1,8 @@
-Hi, I’m @starchyunderscore
+Hi, I’m @starchyunderscore.
 
-I’m currently learning rust
+I’m currently learning rust.
 
-I'm currently working on some old computers.
+I'm not really working on anything right now.
 
 <!---
 starchyunderscore/starchyunderscore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
