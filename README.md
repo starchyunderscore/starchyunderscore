@@ -6,6 +6,6 @@ I'm also working on a <a href="https://github.com/starchyunderscore/w11-nonadmin
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starchyunderscore&layout=compact&bg_color=000&text_color=fff&title_color=fff&border_color=fff&langs_count=20">
 
-credits:
-<a href="https://github.com/feathericons/feather">External link svg</a>
+credits:  
+<a href="https://github.com/feathericons/feather">External link svg</a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">Github stats</a>
