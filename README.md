@@ -6,7 +6,7 @@ I'm also working on a <a href="https://github.com/starchyunderscore/w11-nonadmin
 
 <img src="https://github-readme-stats.vercel.app/api/?username=starchyunderscore&layout=compact&theme=vision-friendly-dark&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starchyunderscore&layout=donut&theme=vision-friendly-dark&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starchyunderscore&layout=compact&theme=vision-friendly-dark&langs_count=20">
 
 credits:  
 <a href="https://github.com/anuraghazra/github-readme-stats">Github stats</a>
