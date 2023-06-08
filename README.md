@@ -1,6 +1,6 @@
 Hi, I’m @starchyunderscore.
 
-I’m currently trying to learn rust, but I'm not doing great on account of always speedrunning portal 2 instead.
+I’m currently trying to learn rust, but I'm not doing a very good job.
 
 <img src="https://github-readme-stats.vercel.app/api/?username=starchyunderscore&layout=compact&theme=vision-friendly-dark&show_icons=true">
 
